@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588435613044.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A427E516",
+    "lastKnownWriteTime" : 1588429172,
+    "last_content_update" : 1588429172,
+    "path" : "~/jh_ds/specdata/scripts/complete.R",
+    "project_path" : "scripts/complete.R",
+    "properties" : {
+        "cursorPosition" : "11,26",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
